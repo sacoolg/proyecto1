@@ -1,0 +1,10 @@
+mkdir nombre_de_la_carpeta
+git init
+code (para crear el archivo)
+git status (debe aparcer el archivo en rojo)
+git add (+nombre del archivo)
+git status (debe estar en verde)
+git config --list (configuracion)
+git config global --user.name
+git config global --user.mail
+git commit -m "mensajes de los cambios"
